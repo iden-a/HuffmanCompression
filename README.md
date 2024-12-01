@@ -45,7 +45,7 @@ The program calculates and displays the **compression ratio** comparing the size
 ### Steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/HuffmanCompression.git
+   git clone https://github.com/iden-a/HuffmanCompression.git
 
 2. Navigate to the project directory:
    ```bash
@@ -59,4 +59,4 @@ The program calculates and displays the **compression ratio** comparing the size
     ```bash
     ./huffman
 
-5. Make sure you have an input.txt file in the same directory as the executable or adjust the file path in the code accordingly.
+5. Make sure you have an input.txt file located in a **`data/`** directory or adjust the file path in the code accordingly.
